@@ -1,11 +1,11 @@
-# 🌌 3D Solar System Simulation — React + Three.js + Vite
+# 3D Solar System Simulation — React + Three.js + Vite
 
 An interactive **3D Solar System model** built using **React**, **Three.js**, and **React Three Fiber (R3F)**.  
 This project visually simulates the movement of planets around the sun, complete with orbit paths, realistic textures, a glowing sun, and an asteroid belt — all rendered in real-time 3D.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project represents a realistic miniature of our **solar system**, showing:
 - The **Sun** at the center with a subtle glow.
@@ -20,21 +20,21 @@ This visualization helps users understand the **relative motion** of planets and
 
 ---
 
-## 🪐 Features
+## Features
 
-✅ **Eight Planets** — Each with unique textures, orbital distance, and speed.  
-✅ **Earth–Moon System** — Moon orbiting Earth dynamically.  
-✅ **Sun Glow Effect** — Emissive layered glow for realism.  
-✅ **Asteroid Belt** — Dynamic asteroid particles between Mars and Jupiter.  
-✅ **Orbit Paths** — Subtle visual rings marking planet orbits.  
-✅ **Interactive Camera** — Move freely in 3D using your mouse.  
-✅ **Optimized for Performance** — Built with Vite and React Three Fiber.  
-✅ **Custom Labels** — Floating names above each planet.  
-✅ **Realistic Speeds** — Outer planets move slower than inner ones.  
+- **Eight Planets** — Each with unique textures, orbital distance, and speed.  
+- **Earth–Moon System** — Moon orbiting Earth dynamically.  
+- **Sun Glow Effect** — Emissive layered glow for realism.  
+- **Asteroid Belt** — Dynamic asteroid particles between Mars and Jupiter.  
+- **Orbit Paths** — Subtle visual rings marking planet orbits.  
+- **Interactive Camera** — Move freely in 3D using your mouse.  
+- **Optimized for Performance** — Built with Vite and React Three Fiber.  
+- **Custom Labels** — Floating names above each planet.  
+- **Realistic Speeds** — Outer planets move slower than inner ones.  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Technology | Description |
 |-------------|-------------|
@@ -46,7 +46,7 @@ This visualization helps users understand the **relative motion** of planets and
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 solar-system/
@@ -84,20 +84,20 @@ solar-system/
 ```
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
-Follow these steps to run the project locally 👇
+Follow these steps to run the project locally:
 
-### 1️⃣ Clone the Repository
+### 1️. Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 ```
 
-### 2️⃣ Install Dependencies
+### 2️. Install Dependencies
 ``` npm install ```
 
-### 3️⃣ Start Development Server
+### 3️. Start Development Server
 ``` npm run dev ```
 
 Then open the local development URL (usually http://localhost:5173) in your browser.
